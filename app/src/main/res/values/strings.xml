@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Examen1JesusFresnedaFuentespina</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="texto_ejercicio1">Texto de ejemplo para el fragment de ejercicios 1</string>
+    <string name="texto_ejercicio2">Texto de ejemplo para el fragment de ejercicios 2</string>
+    <string name="texto_ejercicio3">Texto de ejemplo para el fragment de ejercicios 3</string>
+</resources>
